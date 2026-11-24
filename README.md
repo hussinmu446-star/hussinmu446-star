@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**hussinmu446-star/hussinmu446-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hussain 👋
 
-Here are some ideas to get you started:
+### Cybersecurity Student | Aspiring SOC Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a cybersecurity student interested in network security, threat detection, and security operations. I am currently building my knowledge and technical skills through continuous learning and hands-on practice. My career goal is to become a SOC Analyst and contribute to protecting organizations from cyber threats.
+
+## Currently Learning
+- Google Cybersecurity Certificate
+- Cisco Networking Basics
+- SQL and Database Fundamentals
+- Cybersecurity Fundamentals
+
+## Career Goal
+To become a skilled SOC Analyst and develop practical skills in security monitoring, threat detection, and incident response.
+
+---
+*Always learning. Always improving.*
+
